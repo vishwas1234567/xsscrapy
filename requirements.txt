@@ -8,5 +8,5 @@ lxml
 six
 cssselect
 pyopenssl
-cryptography
+cryptography==3.4.0
 queuelib
